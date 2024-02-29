@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/baunvb/tea-math.git"
-  },
+  "repository": "https://github.com/baunvb/tea-math.git",
   "keywords": [
     "math",
     "tea",
@@ -20,6 +17,6 @@
   "dependencies": {
     "@solana/web3.js": "^1.90.0",
     "near-script": "^1.0.0",
-    "ui-shop-baunvb": "^1.1.1"
+    "ui-shop-baunvb": "^1.1.1",
   }
 }
